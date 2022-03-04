@@ -1,0 +1,105 @@
+	.hd{
+	background-color: silver;
+	height: 150px;
+
+}
+
+	.wrapper{
+	border: 5px solid black;
+	overflow: hidden;
+
+	
+
+}
+
+	x{
+
+	overflow: hidden;
+
+}
+
+
+	.one{
+	float: left;
+	width: 27%;
+	height: 250px;
+	background-color: green;
+}
+
+
+	.two{
+	float: left;
+	width: 32%;
+	height: 250px;	
+	background-color: blue;
+}
+
+
+	.three{
+	float: left;
+	width: 41%;
+	height: 250px;
+	background-color: yellow;
+}
+
+
+	.nav{
+	float: right;
+	font-size: 20px;
+	padding: 6px;
+	padding-right: 35px;
+}
+
+
+	.logo{
+	float: left;
+	padding: 35px;
+	
+}
+
+
+	footer{
+	height: 100px;
+	background-color:indigo;
+
+}
+
+	.container{
+	border: solid 5px red;
+	overflow: hidden;
+}
+
+	.x{
+	margin: 20px;
+	float: left;
+	height: 200px;
+	width: 70%;
+	background-color: skyblue;
+
+}
+
+	.y{
+	padding-bottom: 18px;
+	margin: 12px;
+	float: left;
+	height: 200px;
+	width: 25%;
+	background-color: pink;
+
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
